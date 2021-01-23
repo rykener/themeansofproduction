@@ -19,9 +19,9 @@ return (
     `}>
             <h1
                 css={css`
-                    margin-bottom: 80px};
-                      @media (max-width: 800px) {
-                        font-size: 20px;
+                    margin-bottom: 80px;
+                      @media (max-width: 600px) {
+                        font-size: 30px;
                         font-weight: 300;
                       }
                     `}
