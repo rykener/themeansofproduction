@@ -10,7 +10,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle} description={data.site.siteMetadata.description}>
-      <SEO title="All posts" />
+      <SEO title="The Means of Production" />
       {yamlPosts.map(post => {
         const title = post.node.name
 
