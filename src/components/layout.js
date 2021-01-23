@@ -24,6 +24,9 @@ return (
                         font-size: 30px;
                         font-weight: 300;
                       }
+                      @media (max-width: 400px) {
+                        font-size: 24px;
+                      }
                     `}
                 >
                         <Link to={`/`}>
