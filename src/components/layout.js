@@ -20,8 +20,8 @@ return (
             <h1
                 css={css`
                     margin-bottom: 80px};
-                      @media (max-width: 600px) {
-                        font-size: 30px;
+                      @media (max-width: 800px) {
+                        font-size: 20px;
                         font-weight: 300;
                       }
                     `}
