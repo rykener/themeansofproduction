@@ -1,11 +1,15 @@
 - name: "Amazon Logo Union Hat"
   link: https://www.etsy.com/listing/933210186/unionize-hat
-  tile: https://i.etsystatic.com/27351210/r/il/659c07/2812405896/il_794xN.2812405896_9taj.jpg 
+  tile: https://i.etsystatic.com/27351210/r/il/659c07/2812405896/il_794xN.2812405896_9taj.jpg
 
 - name: "AirBnb Logo Gentrify Hat"
   link: https://www.etsy.com/listing/947213179/gentrify-hat
-  tile: https://i.etsystatic.com/27351210/r/il/cad8c6/2860076717/il_1588xN.2860076717_rlho.jpg 
-  
+  tile: https://i.etsystatic.com/27351210/r/il/cad8c6/2860076717/il_1588xN.2860076717_rlho.jpg
+
 - name: "WalMart Logo Welfare Hat"
   link: https://www.etsy.com/listing/947228541/welfare-hat
   tile: https://i.etsystatic.com/27351210/r/il/95b6d7/2860128069/il_794xN.2860128069_10t7.jpg
+
+- name: "Door Dash Logo Wage Theft Hat"
+  link: https://www.etsy.com/listing/948438403/wage-theft-hat
+  tile: https://i.etsystatic.com/27351210/r/il/e3e25f/2817078040/il_1588xN.2817078040_2sa9.jpg
