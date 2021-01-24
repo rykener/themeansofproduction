@@ -54,6 +54,7 @@ return (
     `}>
         <div css={css`
             max-width: 500px;
+            padding: 0 5%;
         `}>
             <p>{description}</p>
             © {new Date().getFullYear()}, Built with
